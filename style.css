@@ -4,8 +4,11 @@
   min-height: 350px;
 }
 
-
 .bar {
   fill: #000000;
   height: 30px;
+}
+
+.name {
+  fill: white;
 }
